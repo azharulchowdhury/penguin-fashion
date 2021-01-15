@@ -1,0 +1,17 @@
+.background-color{
+    background-color:bisque;
+}
+.container  img{
+    height: 300px;
+}
+.picture img{
+    height: 50px;
+}
+.additional{
+    height: 250px;
+    background-color:slategray;
+    margin: 50px;
+}
+ul{
+    list-style-type: none;
+}
